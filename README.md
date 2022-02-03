@@ -23,7 +23,7 @@ Simple update of https://www.npmjs.com/package/vue-simple-alert to vue3
 ## Install
 
 ```bash
-npm i vue3-simple-alert
+npm i vue3-simple-alert-next
 ```
 
 ## Basic Usage
@@ -33,7 +33,7 @@ npm i vue3-simple-alert
 ```javascript
 // main.js
 import { createApp } from "vue";
-import VueSimpleAlert from "vue3-simple-alert";
+import VueSimpleAlert from "vue3-simple-alert-next";
 
 const app = createApp({})
 
@@ -77,7 +77,7 @@ Global options can be set when initialize plugin. Refer to [sweetalert2 document
 ```javascript
 // main.js
 import { createApp } from "vue";
-import VueSimpleAlert from "vue3-simple-alert";
+import VueSimpleAlert from "vue3-simple-alert-next";
 
 const app = createApp({})
 
